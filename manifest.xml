@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="ceejatec"      fetch="git://github.com/ceejatec/" />
+
+  <default remote="ceejatec" revision="master" />
+
+  <!-- Core Couchbase Server projects -->
+  <project name="git-gerrit"/>
+  <project name="asf-git-gerrit"/>
+</manifest>
+
